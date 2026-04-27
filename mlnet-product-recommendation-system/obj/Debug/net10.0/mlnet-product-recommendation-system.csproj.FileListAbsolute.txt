@@ -1,0 +1,13 @@
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\bin\Debug\net10.0\mlnet-product-recommendation-system.deps.json
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\bin\Debug\net10.0\mlnet-product-recommendation-system.dll
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\bin\Debug\net10.0\mlnet-product-recommendation-system.pdb
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Debug\net10.0\mlnet-product-recommendation-system.csproj.AssemblyReference.cache
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Debug\net10.0\mlnet-product-recommendation-system.GeneratedMSBuildEditorConfig.editorconfig
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Debug\net10.0\mlnet-product-recommendation-system.AssemblyInfoInputs.cache
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Debug\net10.0\mlnet-product-recommendation-system.AssemblyInfo.cs
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Debug\net10.0\mlnet-product-recommendation-system.csproj.CoreCompileInputs.cache
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Debug\net10.0\mlnet-product-recommendation-system.sourcelink.json
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Debug\net10.0\mlnet-product-recommendation-system.dll
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Debug\net10.0\refint\mlnet-product-recommendation-system.dll
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Debug\net10.0\mlnet-product-recommendation-system.pdb
+c:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Debug\net10.0\ref\mlnet-product-recommendation-system.dll
