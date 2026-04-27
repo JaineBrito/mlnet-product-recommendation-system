@@ -1,0 +1,12 @@
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\bin\Release\net9.0\mlnet-product-recommendation-system.deps.json
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\bin\Release\net9.0\mlnet-product-recommendation-system.dll
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\bin\Release\net9.0\mlnet-product-recommendation-system.pdb
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Release\net9.0\mlnet-product-recommendation-system.csproj.AssemblyReference.cache
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Release\net9.0\mlnet-product-recommendation-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Release\net9.0\mlnet-product-recommendation-system.AssemblyInfoInputs.cache
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Release\net9.0\mlnet-product-recommendation-system.AssemblyInfo.cs
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Release\net9.0\mlnet-product-recommendation-system.csproj.CoreCompileInputs.cache
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Release\net9.0\mlnet-product-recommendation-system.dll
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Release\net9.0\refint\mlnet-product-recommendation-system.dll
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Release\net9.0\mlnet-product-recommendation-system.pdb
+C:\mlnet-product-recommendation-system\mlnet-product-recommendation-system\obj\Release\net9.0\ref\mlnet-product-recommendation-system.dll

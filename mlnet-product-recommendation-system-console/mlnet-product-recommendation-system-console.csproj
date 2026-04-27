@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\mlnet-product-recommendation-system\mlnet-product-recommendation-system.csproj" />
+  </ItemGroup>
+
+  
+  <ItemGroup>
+   <None Update="recomendacoes.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+   </None>
+  </ItemGroup>
+
+
+</Project>
